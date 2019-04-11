@@ -1,6 +1,6 @@
 
 # Fintech-Text Mining and Machine Learning
-小組作業放置區
+小組作業放置區 (僅為個人紀錄用，詳情請參閱各作業原始協作處)
 <br><br>
 R07723033 財工組碩一 林冠妙
 
